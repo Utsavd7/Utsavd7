@@ -12,17 +12,17 @@ My past time hobies also include graphic designing & UX/UI.
 
 ### Connect with me:
 
-[![website](https://github.com/Utsavd7/Github/blob/master/Readme/globe-light.svg)](https://utsavd7.github.io/my-portfolio/#gh-light-mode-only)
-[![website](https://github.com/Utsavd7/Github/blob/master/Readme/globe-dark.svg)](https://utsavd7.github.io/my-portfolio/#gh-dark-mode-only)
+[![website](https://github.com/Utsavd7/Utsavd7/blob/main/Logos/globe-light.svg)](https://utsavd7.github.io/my-portfolio/#gh-light-mode-only)
+[![website](https://github.com/Utsavd7/Utsavd7/blob/main/Logos/globe-dark.svg)](https://utsavd7.github.io/my-portfolio/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://github.com/Utsavd7/Github/blob/master/Readme/linkedin-light.svg)](https://www.linkedin.com/in/utsavd7/#gh-light-mode-only)
-[![website](https://github.com/Utsavd7/Github/blob/master/Readme/linkedin-dark.svg)](https://www.linkedin.com/in/utsavd7/#gh-dark-mode-only)
+[![website](https://github.com/Utsavd7/Utsavd7/blob/main/Logos/linkedin-light.svg)](https://www.linkedin.com/in/utsavd7/#gh-light-mode-only)
+[![website](https://github.com/Utsavd7/Utsavd7/blob/main/Logos/linkedin-dark.svg)](https://www.linkedin.com/in/utsavd7/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://github.com/Utsavd7/Github/blob/master/Readme/instagram-light.svg)](https://www.instagram.com/utsavd7/#gh-light-mode-only)
-[![website](https://github.com/Utsavd7/Github/blob/master/Readme/instagram-dark.svg)](https://www.instagram.com/utsavd7/#gh-dark-mode-only)
+[![website](https://github.com/Utsavd7/Utsavd7/blob/main/Logos/instagram-light.svg)](https://www.instagram.com/utsavd7/#gh-light-mode-only)
+[![website](https://github.com/Utsavd7/Utsavd7/blob/main/Logos/instagram-dark.svg)](https://www.instagram.com/utsavd7/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://github.com/Utsavd7/Github/blob/master/Readme/hackerrank-svgrepo-com.svg)](https://www.hackerrank.com/utsavd7#gh-light-mode-only)
-[![website](https://github.com/Utsavd7/Github/blob/master/Readme/hackerrank-svgrepodark-com.svg)](https://www.hackerrank.com/utsavd7#gh-dark-mode-only)
+[![website](https://github.com/Utsavd7/Utsavd7/blob/main/Logos/hackerrank-svgrepo-com.svg)](https://www.hackerrank.com/utsavd7#gh-light-mode-only)
+[![website](https://github.com/Utsavd7/Utsavd7/blob/main/Logos/hackerrank-svgrepodark-com.svg)](https://www.hackerrank.com/utsavd7#gh-dark-mode-only)
 
 ### Languages and Tools:
 
