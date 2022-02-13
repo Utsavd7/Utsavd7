@@ -44,13 +44,13 @@ My past time hobies also include graphic designing & UX/UI.
 ### Hackerrank Badges:
 
 <a href="https://www.hackerrank.com/utsavd7">
-  <img align="center" src="https://github.com/Utsavd7/About-Me/blob/master/HackerRank%20Badges/C%2B%2B.png" width="90" height="100"/>
+  <img align="center" src="https://github.com/Utsavd7/Utsavd7/blob/main/HackerRank%20Badges/C%2B%2B.png" width="90" height="100"/>
 </a>
 <a href="https://www.hackerrank.com/utsavd7">
-  <img align="center" src="https://github.com/Utsavd7/About-Me/blob/master/HackerRank%20Badges/Python.png" width="90" height="100"/>
+  <img align="center" src="https://github.com/Utsavd7/Utsavd7/blob/main/HackerRank%20Badges/Python.png" width="90" height="100"/>
 </a>
 <a href="https://www.hackerrank.com/utsavd7">
-  <img align="center" src="https://github.com/Utsavd7/About-Me/blob/master/HackerRank%20Badges/SQL.png" width="90" height="100"/>
+  <img align="center" src="https://github.com/Utsavd7/Utsavd7/blob/main/HackerRank%20Badges/SQL.png" width="90" height="100"/>
 </a>
 
 ---
