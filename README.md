@@ -1,6 +1,6 @@
-# Hi there, I'm Utsav 👋 
+<h1 align="center">Hi there, I'm Utsav 👋</h1> 
 
-## I'm a student pursuing CSE with specialization in Artificial Intelligence & Machine Learning from India. 
+<h3 align="center">I'm a student pursuing CSE with specialization in Artificial Intelligence & Machine Learning from India.</h3>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Utsavd7 alt=Utsavd7/> </p>
 
