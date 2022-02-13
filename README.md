@@ -2,6 +2,8 @@
 
 ## I'm a student pursuing CSE with specialization in Artificial Intelligence & Machine Learning from India. 
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Utsavd7 alt=Utsavd7/> </p>
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and work on many projects!
 - 🥅 2022 Goals: Learn more about python get better in Machine Learning
