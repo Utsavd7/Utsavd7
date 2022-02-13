@@ -55,8 +55,8 @@ My past time hobies also include graphic designing & UX/UI.
 
 ---
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsavd7&layout=default&theme=github_dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsavd7&layout=default&theme=github_dark" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsavd7&layout=compact&theme=github_dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsavd7&layout=compact&theme=github_dark" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=Utsavd7&theme=github_dark&show_icons=true&hide=contribs,prs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Utsavd7&theme=github_dark&show_icons=true&hide=contribs,prs" />
