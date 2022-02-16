@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a student pursuing CSE with specialization in Artificial Intelligence & Machine Learning from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Utsavd7/Utsavd7/blob/main/1.svg">
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Utsavd7 alt=Utsavd7/> </p>
 
