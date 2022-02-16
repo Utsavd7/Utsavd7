@@ -1,10 +1,5 @@
 [![MasterHead](https://github.com/Utsavd7/Utsavd7/blob/main/Group%206.svg)](https://rishavchanda.io)
 
-<h1 align="center">Hi there, I'm Utsav 👋</h1> 
-
-<h3 align="center">I'm a student pursuing CSE with specialization in Artificial Intelligence & Machine Learning from India.</h3>
-
-<img align="right" alt="Coding" width="300" src="https://github.com/Utsavd7/Utsavd7/blob/main/1.svg">
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Utsavd7 alt=Utsavd7/> </p>
 
