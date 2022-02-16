@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Utsavd7/Utsavd7/blob/main/Group%206.svg)](https://rishavchanda.io)
+[![MasterHead](https://github.com/Utsavd7/Utsavd7/blob/main/Group%206.svg)](https://github.com/Utsavd7)
 
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Utsavd7 alt=Utsavd7/> </p>
