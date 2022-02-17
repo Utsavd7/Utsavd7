@@ -36,6 +36,10 @@
 <br/>
 
 
+<h2>�:technologist:  About Me</h2>
+
+<br/>   
+ 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and work on many projects!
 - 🥅 2022 Goals: Learn more about python get better in Machine Learning
