@@ -9,6 +9,8 @@
   <a href="https://www.instagram.com/utsavd7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
 </p>
 
+<br/></br>
+**[Visit my website &rarr; My Portfolio](https://murshidazher.com/)**
 
 <br/>
 
@@ -94,5 +96,4 @@ My past time hobies also include graphic designing & UX/UI.
 </a>
 
 
-<br/></br>
-**[Visit my website &rarr; My Portfolio](https://murshidazher.com/)**
+
