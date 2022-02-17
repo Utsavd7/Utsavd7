@@ -50,6 +50,8 @@ My past time hobies also include graphic designing & UX/UI.
 <br>
 
 
+<br/>
+    
 <h2>💻 Languages and Tools</h2>
 
 <br/>  
