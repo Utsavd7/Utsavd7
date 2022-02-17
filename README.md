@@ -10,6 +10,8 @@
 </p>
 
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Utsavd7 alt=Utsavd7/> </p>
+
 <br/>
 
 
@@ -35,16 +37,6 @@
 
 <br/>
 
-
-
-
-
-
-
-![MasterHead](https://github.com/Utsavd7/Utsavd7/blob/main/Group%206.jpg)
-
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Utsavd7 alt=Utsavd7/> </p>
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and work on many projects!
