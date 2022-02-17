@@ -88,18 +88,3 @@ My past time hobies also include graphic designing & UX/UI.
   <img align="center" src="https://github.com/Utsavd7/Utsavd7/blob/main/HackerRank%20Badges/SQL.png" width="90" height="100"/>
 </a>
 
----
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsavd7&layout=default&theme=github_dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsavd7&layout=compact&theme=github_dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=Utsavd7&theme=github_dark&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Utsavd7&theme=github_dark&show_icons=true&hide=contribs" />
-</a>
-
----
-
-[website]: https://utsavd7.github.io/my-portfolio/
-[instagram]: https://www.instagram.com/utsavd7/
-[linkedin]: https://www.linkedin.com/in/utsavd7/
-
