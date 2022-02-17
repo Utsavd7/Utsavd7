@@ -29,7 +29,7 @@
   <hr/>
 
   <div>
-    <a href="#"><img alt="Utsav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Utsavd7&custom_title=Utsav%20Souza's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
+    <a href="#"><img alt="Utsav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Utsavd7&custom_title=Utsav%20Doshi's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
   <div> 
 </div>
 
