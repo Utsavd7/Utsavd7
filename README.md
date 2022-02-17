@@ -10,7 +10,7 @@
 </p>
 
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Utsavd7 alt=Utsavd7/> </p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=Utsavd7 alt=Utsavd7/> </p>
 
 <br/>
 
