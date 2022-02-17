@@ -76,7 +76,12 @@ My past time hobies also include graphic designing & UX/UI.
 - [Machine Learning by Stanford University - Ongoing](https://www.coursera.org/learn/machine-learning/home/welcome)
 - [100 Days of Code: The Complete Python Pro Bootcamp - Ongoing](https://www.udemy.com/course/100-days-of-code/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_77882236463_._ad_533093955810_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171312_._li_9062279_._pd__._&matchtype=&gclid=Cj0KCQiA0p2QBhDvARIsAACSOOPm7hxvlrvCjjavJfhpJz265hLxqdi_k2XV3XDnWq0-znd2SBjV3CcaAt0nEALw_wcB)
 
-### Hackerrank Badges:
+   
+<br/>
+    
+<h2>⭐ Hackerrank Badgesh2>
+
+<br/>  
 
 <a href="https://www.hackerrank.com/utsavd7">
   <img align="center" src="https://github.com/Utsavd7/Utsavd7/blob/main/HackerRank%20Badges/C%2B%2B.png" width="90" height="100"/>
