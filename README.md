@@ -94,5 +94,5 @@ My past time hobies also include graphic designing & UX/UI.
 </a>
 
 
-<br/><br/><br/><br/>
+<br/>
 **[Visit my website &rarr; My Portfolio](https://murshidazher.com/)**
