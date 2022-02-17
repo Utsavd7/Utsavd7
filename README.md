@@ -9,9 +9,10 @@
   <a href="https://www.instagram.com/utsavd7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
 </p>
 
-<br/></br>
+<p align="center"> 
+<br/>
 **[Visit my website &rarr; My Portfolio](https://murshidazher.com/)**
-
+</p>
 <br/>
 
 
