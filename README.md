@@ -36,7 +36,7 @@
 <br/>
 
 
-<h2>�:technologist:  About Me</h2>
+<h2>technologist:  About Me</h2>
 
 <br/>   
  
