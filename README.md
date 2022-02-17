@@ -79,7 +79,7 @@ My past time hobies also include graphic designing & UX/UI.
    
 <br/>
     
-<h2>⭐ Hackerrank Badgesh2>
+<h2>⭐ Hackerrank Badges </h2>
 
 <br/>  
 
