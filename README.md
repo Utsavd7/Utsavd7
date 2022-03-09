@@ -1,6 +1,5 @@
 <h1 align="center">
-  Hey there, Utsav here!
-  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
+  Hey there, Utsav here!👋
 </h1>
 
 <p align="center">   
