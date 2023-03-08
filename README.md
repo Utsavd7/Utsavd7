@@ -39,7 +39,7 @@ Visit my website &rarr; https://utsavd7.github.io/My-Portfolio/
  
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and work on many projects!
-- 🥅 2022 Goals: Learn more about python get better in Machine Learning, Deep Learning and Computer Vision
+- 🥅 2023 Goals: Learn more about python get better in Machine Learning, Deep Learning and Computer Vision
 - ⚡ Fun fact: I love Photography & am interested a lot into tech.
 - 📷 Check out my Photography page : [tilted_tripods_](https://www.instagram.com/tilted_tripods_/)
 
