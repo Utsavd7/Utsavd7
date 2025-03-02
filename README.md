@@ -36,11 +36,11 @@ Visit my website &rarr; https://utsavd7.github.io/My-Portfolio/
 
 <br/>   
  
-🌱 I’m constantly learning and exploring advancements in AI, Machine Learning, Deep Learning, and Computer Vision 🤖
-👯 I’m looking to collaborate with developers, researchers, and AI enthusiasts on impactful projects!
-🥅 2025 Goals: Enhance my expertise in foundation models, generative AI, and large-scale deep learning architectures 🚀
-⚡ Fun fact: I’m passionate about Photography 📷 and cutting-edge tech innovations!
-📷 Check out my Photography page: [tilted_tripods_](https://www.instagram.com/tilted_tripods_/)
+- 🌱 I’m constantly learning and exploring advancements in AI, Machine Learning, Deep Learning, and Computer Vision 🤖
+- 👯 I’m looking to collaborate with developers, researchers, and AI enthusiasts on impactful projects!
+- 🥅 2025 Goals: Enhance my expertise in foundation models, generative AI, and large-scale deep learning architectures 🚀
+- ⚡ Fun fact: I’m passionate about Photography 📷 and cutting-edge tech innovations!
+- 📷 Check out my Photography page: [tilted_tripods_](https://www.instagram.com/tilted_tripods_/)
 
 My past time hobies also include graphic designing & UX/UI.
 <br>
