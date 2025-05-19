@@ -34,16 +34,18 @@ Visit my website &rarr; https://utsavdoshi.vercel.app
 
 <h2>:technologist:   About Me</h2>
 
-<br/>   
- 
-- 🌱 I’m constantly learning and exploring advancements in AI, Machine Learning, Deep Learning, and Computer Vision 🤖
-- 👯 I’m looking to collaborate with developers, researchers, and AI enthusiasts on impactful projects!
-- 🥅 2025 Goals: Enhance my expertise in foundation models, generative AI, and large-scale deep learning architectures 🚀
-- ⚡ Fun fact: I’m passionate about Photography 📷 and cutting-edge tech innovations!
+<br/>
+
+- 👨‍💻 Graduate Computer Science Student @ NYU, passionate about building at the intersection of AI, Finance & Entrepreneurship  
+- 🤖 Exploring AI/ML, Deep Learning, Computer Vision, Data Science, SWE, FinTech, Quantitative Finance, and Business Analytics  
+- 🎓 Taking “Foundations of FinTech” @ NYU Stern to bridge technical and financial innovation  
+- 🤝 Open to collaborations in research and development across tech and finance domains  
+- 🎨 Creative at heart – I enjoy photography, graphic design, and UX/UI  
 - 📷 Check out my Photography page: [tilted_tripods_](https://www.instagram.com/tilted_tripods_/)
 
-My past time hobies also include graphic designing & UX/UI.
-<br>
+<br/>
+
+
 
 
 <br/>
