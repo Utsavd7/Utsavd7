@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/utsavd7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
 </p>
 <p align="center">
-Visit my website &rarr; https://utsavd7.github.io/My-Portfolio/
+Visit my website &rarr; https://utsavdoshi.vercel.app
 </p>
 <br/>
 
