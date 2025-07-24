@@ -49,7 +49,7 @@
 
 ### 🔍 Looking to Connect?
 
-- 📫 Reach me at: **uvd2003@nyu.edu**
+- 📫 Reach me at: **utsavd7@gmail.com**
 - 🔗 Let’s connect: [linkedin.com/in/utsavd7](https://linkedin.com/in/utsavd7)
 - 🌐 More about me: [utsavdoshi.vercel.app](https://utsavdoshi.vercel.app)
 
