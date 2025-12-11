@@ -37,14 +37,6 @@
 - **SaaS + AI/ML Automation @ Launchr Tech**  
   Revamped client-facing web platforms and automated ML model workflows. Reduced model training time by 30%, boosted traffic by 20%, and integrated SEO + AI tools for e-commerce.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsavd7&layout=compact&theme=react&hide_border=true&bg_color=0D1117&text_color=ffffff" height="200" />
-</p>
-
 
 ---
 
