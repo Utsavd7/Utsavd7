@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Utsav 👋</h1>
 
 <p align="center">
-  <a href="mailto:uvd2003@nyu.edu" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
+  <a href="mailto:utsavd7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
   <a href="https://www.linkedin.com/in/utsavd7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a>
   <a href="https://utsavdoshi.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=F0DB4F"></a>
   <a href="https://www.instagram.com/tilted_tripods_/" target="_blank"><img src="https://img.shields.io/badge/-Photography-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
