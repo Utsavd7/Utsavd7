@@ -1,10 +1,15 @@
-# Hey, I'm Utsav 👋
+<h1 align="center">Hey, I'm Utsav 👋</h1>
 
-📧 **EMAIL** | 💼 **LINKEDIN** | 🔺 **PORTFOLIO** | 📸 **PHOTOGRAPHY**
+<p align="center">
+  <a href="mailto:uvd2003@nyu.edu" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
+  <a href="https://www.linkedin.com/in/utsavd7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a>
+  <a href="https://utsavdoshi.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=F0DB4F"></a>
+  <a href="https://www.instagram.com/tilted_tripods_/" target="_blank"><img src="https://img.shields.io/badge/-Photography-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
+</p>
 
 ---
 
-## 🎯 The Pitch
+<h3>🎯 The Pitch</h3>
 
 **MS CS @ NYU + Stern FinTech** • Ranked #1/2,800 in programming • **McKinsey Forward Alum**
 
@@ -20,7 +25,7 @@ Went from scoring 98.1% accuracy grading 8K papers with BERT → building VaR da
 
 ---
 
-## 🔥 Recent Hits
+<h3>🔥 Recent Hits</h3>
 
 **Microsoft Research:** Broke and rebuilt generative models—improved fidelity 25% over 80K training steps
 
@@ -32,24 +37,28 @@ Went from scoring 98.1% accuracy grading 8K papers with BERT → building VaR da
 
 ---
 
-## 💻 Top Languages
+<h3 align="center">💻 Top Languages</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavd7&layout=compact&theme=dark&bg_color=0D1117&title_color=F0DB4F&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
 </p>
 
-*Note: Stats reflect public repos only. The real action happens in production where milliseconds cost millions and "good enough" is career suicide.*
+<p align="center">
+  <i><b>Note:</b> Stats reflect public repos only. The real action happens in production where milliseconds cost millions and "good enough" is career suicide.</i>
+</p>
 
 ---
 
-## 🤝 Let's Build
+<h3>🤝 Let's Build</h3>
 
 I don't do leetcode. I do systems where Python meets P&L, algorithms have attitude, and the only thing moving faster than the code is the money it manages.
 
 **Seeking:** Teams where technical debt excites me more than it scares me.
 
-📧 **utsavd7@gmail.com** • 🔗 **linkedin.com/in/utsavd7** • 🌐 **utsavdoshi.vercel.app**
+📧 [utsavd7@gmail.com](mailto:utsavd7@gmail.com) • 🔗 [linkedin.com/in/utsavd7](https://linkedin.com/in/utsavd7) • 🌐 [utsavdoshi.vercel.app](https://utsavdoshi.vercel.app)
 
 ---
 
-*From SD-WANs to cGANs, from autonomous vehicles to autonomous trading—if it computes, I've probably optimized it.*
+<p align="center">
+  <i>From SD-WANs to cGANs, from autonomous vehicles to autonomous trading—if it computes, I've probably optimized it.</i>
+</p>
