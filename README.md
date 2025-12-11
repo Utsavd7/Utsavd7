@@ -42,8 +42,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsavd7&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsavd7&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&text_color=ffffff"
+    height="200"
+  />
 </p>
+
 
 ---
 
