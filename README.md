@@ -10,20 +10,11 @@
 
 <h3>🎯 The Pitch</h3>
 
-**MS CS @ NYU + Stern FinTech** • Graduating May 2026
+**MS CS @ NYU + Stern FinTech** • Ranked #1/2,800 in programming • **McKinsey Forward Alum** • Graduating May 2026
 
 1.5+ years across 4+ companies in AI, ML, quant finance, and full-stack — building systems that served 2M+ users, processed $10M+ in financial datasets, and sustained 95% uptime under 10K+ concurrent users. One of the earliest engineering hires at BetterCampus (0→1, then 1→10x).
 
 I build the layer that keeps agentic pipelines alive when the environment breaks — detection, recovery, and self-repair baked in from the start, not bolted on after the first production incident.
-
-**What I've shipped:**
-- 5-agent autonomous procurement pipeline with live CME/BLS pricing and ML forecasting (AutoRFP)
-- Live NSE equity platform with streaming AI research agent and 6-tab analysis (QuantIQ India)
-- Multimodal RAG with YOLOv8 + Gemini, two-layer output validation, 91% accuracy at 10K concurrent users
-- iOS nutrition app with Gemini vision + custom YOLOv8, live on App Store (NutriCam)
-- Monte Carlo Portfolio Simulator — 10,000+ paths, 40% faster risk insights
-- Financial risk models on $10M+ SME datasets with SHAP explainability (McKinsey/AWS Lambda)
-- Generative model research under a Microsoft Senior Director — 96% precision, 30% diversity increase over 80K steps
 
 Served as Advisor and Lead for Microsoft Learn Student Ambassador, Google Developer Groups, and Perplexity Campus Partner. Mentored 750+ students and volunteered with Smile Foundation. Competed and placed in 3x hackathons across 2,500+ participants.
 
@@ -49,15 +40,6 @@ Served as Advisor and Lead for Microsoft Learn Student Ambassador, Google Develo
 **pix2pix GANs / Microsoft Research** — CLIP-guided diffusion with 96% precision and 30% diversity increase over 80K training steps under a Senior Director.
 → [github.com/Utsavd7/pix2pix-GANs](https://github.com/Utsavd7/pix2pix-GANs)
 
----
-
-<h3 align="center">💻 Top Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavd7&layout=compact&theme=dark&bg_color=0D1117&title_color=F0DB4F&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <i><b>Note:</b> Stats reflect public repos only. Most production work lives in private repos where uptime is a requirement, not a goal.</i>
-</p>
 
 ---
 
