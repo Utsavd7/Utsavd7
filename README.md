@@ -10,7 +10,7 @@
 
 <h3>🎯 The Pitch</h3>
 
-**MS CS @ NYU + Stern FinTech** • Ranked #1/2,800 in programming • **McKinsey Forward Alum** • Graduating May 2026
+**MS CS @ NYU + Stern FinTech** • Graduating May 2026
 
 1.5+ years across 4+ companies in AI, ML, quant finance, and full-stack, building systems that served 2M+ users, processed $10M+ in financial datasets, and sustained 95% uptime under 10K+ concurrent users. One of the earliest engineering hires at BetterCampus (0→1, then 1→10x).
 
