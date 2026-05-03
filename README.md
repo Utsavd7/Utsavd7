@@ -52,5 +52,5 @@ I gravitate toward founding engineer and early-stage roles where the architectur
 ---
 
 <p align="center">
-  <i>From pix2pix GANs to 5-agent procurement pipelines — if it needs to stay alive under pressure, I've probably built the layer that keeps it running.</i>
+  <i>From pix2pix GANs to 5-agent procurement pipelines: if it needs to stay alive under pressure, I've probably built the layer that keeps it running.</i>
 </p>
