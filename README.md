@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Utsav 👋</h1>
-
 <p align="center">
   <a href="mailto:utsavd7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
   <a href="https://www.linkedin.com/in/utsavd7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a>
@@ -11,54 +10,65 @@
 
 <h3>🎯 The Pitch</h3>
 
-**MS CS @ NYU + Stern FinTech** • Ranked #1/2,800 in programming • **McKinsey Forward Alum**
+**MS CS @ NYU + Stern FinTech** • Graduating May 2026
 
-I taught self-driving cars to see at 80% autonomy. Now I teach algorithms to see money.
+1.5+ years across 4+ companies in AI, ML, quant finance, and full-stack — building systems that served 2M+ users, processed $10M+ in financial datasets, and sustained 95% uptime under 10K+ concurrent users. One of the earliest engineering hires at BetterCampus (0→1, then 1→10x).
 
-Went from scoring 98.1% accuracy grading 8K papers with BERT → building VaR dashboards that cut risk insights by 40% → optimizing sub-2s latency trading systems. My Monte Carlo simulations run 10,000+ scenarios before your coffee gets cold.
+I build the layer that keeps agentic pipelines alive when the environment breaks — detection, recovery, and self-repair baked in from the start, not bolted on after the first production incident.
 
-**Current Arsenal:**
-- Event-driven trading strategies with CVaR and Sortino ratios
-- Real-time risk monitoring systems (10K+ concurrent users, 95% uptime)
-- Production ML: GLIDE models at 96% precision, pix2pix GANs at 90% accuracy
-- Financial forecasting models improving $10M+ datasets by 12% (McKinsey/AWS)
+**What I've shipped:**
+- 5-agent autonomous procurement pipeline with live CME/BLS pricing and ML forecasting (AutoRFP)
+- Live NSE equity platform with streaming AI research agent and 6-tab analysis (QuantIQ India)
+- Multimodal RAG with YOLOv8 + Gemini, two-layer output validation, 91% accuracy at 10K concurrent users
+- iOS nutrition app with Gemini vision + custom YOLOv8, live on App Store (NutriCam)
+- Monte Carlo Portfolio Simulator — 10,000+ paths, 40% faster risk insights
+- Financial risk models on $10M+ SME datasets with SHAP explainability (McKinsey/AWS Lambda)
+- Generative model research under a Microsoft Senior Director — 96% precision, 30% diversity increase over 80K steps
+
+Served as Advisor and Lead for Microsoft Learn Student Ambassador, Google Developer Groups, and Perplexity Campus Partner. Mentored 750+ students and volunteered with Smile Foundation. Competed and placed in 3x hackathons across 2,500+ participants.
 
 ---
 
 <h3>🔥 Recent Hits</h3>
 
-**Microsoft Research:** Broke and rebuilt generative models—improved fidelity 25% over 80K training steps
+**AutoRFP** — Menu URL in, signed deal out: 5 specialized AI agents negotiate vendor contracts autonomously using live CME/BLS pricing and OLS forecasting, no paid APIs required.
+→ [github.com/Utsavd7/AutoRFP-Automated-Ingredient-Procurement-System](https://github.com/Utsavd7/AutoRFP-Automated-Ingredient-Procurement-System)
 
-**McKinsey:** Built AWS Lambda + DynamoDB forecasting systems serving enterprise SMEs
+**QuantIQ India** — Live NSE equity platform with NIFTY/BANK NIFTY indices, 6-tab analysis (technicals, financials, backtest, events), and a Groq-powered streaming research agent built for Indian market context.
+→ [github.com/Utsavd7/Event-Driven-Trading-Strategy-Simulator](https://github.com/Utsavd7/Event-Driven-Trading-Strategy-Simulator)
 
-**NYU Stern:** Shipped iOS meal analysis app with Flask + MongoDB backend, 90%+ accuracy in <2s
+**NutriCam** — iOS nutrition tracker with Gemini vision + custom YOLOv8, 90%+ accuracy in under 2 seconds, live on App Store.
+→ [github.com/turingsgarden/food-app](https://github.com/turingsgarden/food-app) • [Download on App Store](https://apps.apple.com/il/app/nutricam-ai-food-tracker/id6754143422)
 
-**Blackbox:** PyMC3 Bayesian models hitting 80.83% prediction accuracy with 15% error reduction
+**Monte Carlo Portfolio Simulator** — 10,000+ simulation paths with Sharpe/VaR/CVaR and efficient frontier visualization, 40% faster risk insights.
+→ [github.com/Utsavd7/Monte-Carlo-Portfolio-Simulator](https://github.com/Utsavd7/Monte-Carlo-Portfolio-Simulator)
+
+**Quantitative Risk Metrics Dashboard** — Real-time VaR, stress testing, and correlation analytics with WebSocket live feeds.
+→ [github.com/Utsavd7/Quantitative-Risk-Metrics-Dashboard](https://github.com/Utsavd7/Quantitative-Risk-Metrics-Dashboard)
+
+**pix2pix GANs / Microsoft Research** — CLIP-guided diffusion with 96% precision and 30% diversity increase over 80K training steps under a Senior Director.
+→ [github.com/Utsavd7/pix2pix-GANs](https://github.com/Utsavd7/pix2pix-GANs)
 
 ---
 
 <h3 align="center">💻 Top Languages</h3>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavd7&layout=compact&theme=dark&bg_color=0D1117&title_color=F0DB4F&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
 </p>
-
 <p align="center">
-  <i><b>Note:</b> Stats reflect public repos only. The real action happens in production where milliseconds cost millions and "good enough" is career suicide.</i>
+  <i><b>Note:</b> Stats reflect public repos only. Most production work lives in private repos where uptime is a requirement, not a goal.</i>
 </p>
 
 ---
 
 <h3>🤝 Let's Build</h3>
 
-I don't do leetcode. I do systems where Python meets P&L, algorithms have attitude, and the only thing moving faster than the code is the money it manages.
-
-**Seeking:** Teams where technical debt excites me more than it scares me.
+I gravitate toward founding engineer and early-stage roles where the architecture decisions actually matter — if your agentic pipeline breaks silently at step 4 and nobody knows until a customer complains, that's the problem I'm wired to solve.
 
 📧 [utsavd7@gmail.com](mailto:utsavd7@gmail.com) • 🔗 [linkedin.com/in/utsavd7](https://linkedin.com/in/utsavd7) • 🌐 [utsavdoshi.vercel.app](https://utsavdoshi.vercel.app)
 
 ---
 
 <p align="center">
-  <i>From SD-WANs to cGANs, from autonomous vehicles to autonomous trading—if it computes, I've probably optimized it.</i>
+  <i>From pix2pix GANs to 5-agent procurement pipelines — if it needs to stay alive under pressure, I've probably built the layer that keeps it running.</i>
 </p>
