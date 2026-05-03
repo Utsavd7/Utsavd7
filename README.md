@@ -12,9 +12,9 @@
 
 **MS CS @ NYU + Stern FinTech** • Ranked #1/2,800 in programming • **McKinsey Forward Alum** • Graduating May 2026
 
-1.5+ years across 4+ companies in AI, ML, quant finance, and full-stack — building systems that served 2M+ users, processed $10M+ in financial datasets, and sustained 95% uptime under 10K+ concurrent users. One of the earliest engineering hires at BetterCampus (0→1, then 1→10x).
+1.5+ years across 4+ companies in AI, ML, quant finance, and full-stack, building systems that served 2M+ users, processed $10M+ in financial datasets, and sustained 95% uptime under 10K+ concurrent users. One of the earliest engineering hires at BetterCampus (0→1, then 1→10x).
 
-I build the layer that keeps agentic pipelines alive when the environment breaks — detection, recovery, and self-repair baked in from the start, not bolted on after the first production incident.
+I build the layer that keeps agentic pipelines alive when the environment breaks, detection, recovery, and self-repair baked in from the start, not bolted on after the first production incident.
 
 Served as Advisor and Lead for Microsoft Learn Student Ambassador, Google Developer Groups, and Perplexity Campus Partner. Mentored 750+ students and volunteered with Smile Foundation. Competed and placed in 3x hackathons across 2,500+ participants.
 
