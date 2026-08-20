@@ -10,7 +10,7 @@
 
 <h3>🎯 The Pitch</h3>
 
-**Senior Developer @ Everis** • **MS CS @ NYU + Stern FinTech** • Graduating May 2026
+**Senior Developer @ Everis** • **MS CS @ NYU + Stern FinTech** • Graduated May 2026
 
 Backend, AI & full-stack engineer with **2+ years of combined work and internship experience across 4+ companies** in AI, ML, quant finance, and full-stack. I've built systems that served 2M+ users, processed $10M+ in financial datasets, and sustained 95% uptime under 10K+ concurrent users. Currently building **[Prosp.ai](https://prosp.ai)** ($1M+ revenue) at Everis. Ex-McKinsey, Ex-Microsoft. One of the earliest engineering hires at [BetterCampus](https://bettercampus.com) (0→1, then 1→10x).
 
