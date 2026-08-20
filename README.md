@@ -10,17 +10,23 @@
 
 <h3>🎯 The Pitch</h3>
 
-**MS CS @ NYU + Stern FinTech** • Graduating May 2026
+**Senior Developer @ Everis** • **MS CS @ NYU + Stern FinTech** • Graduating May 2026
 
-1.5+ years across 4+ companies in AI, ML, quant finance, and full-stack, building systems that served 2M+ users, processed $10M+ in financial datasets, and sustained 95% uptime under 10K+ concurrent users. One of the earliest engineering hires at BetterCampus (0→1, then 1→10x).
+Backend, AI & full-stack engineer with **2+ years of combined work and internship experience across 4+ companies** in AI, ML, quant finance, and full-stack. I've built systems that served 2M+ users, processed $10M+ in financial datasets, and sustained 95% uptime under 10K+ concurrent users. Currently building **[Prosp.ai](https://prosp.ai)** ($1M+ revenue) at Everis. Ex-McKinsey, Ex-Microsoft. One of the earliest engineering hires at [BetterCampus](https://bettercampus.com) (0→1, then 1→10x).
 
-I build the layer that keeps agentic pipelines alive when the environment breaks, detection, recovery, and self-repair baked in from the start, not bolted on after the first production incident.
+I build the layer that keeps agentic pipelines alive when the environment breaks — detection, recovery, and self-repair baked in from the start, not bolted on after the first production incident.
 
 Served as Advisor and Lead for Microsoft Learn Student Ambassador, Google Developer Groups, and Perplexity Campus Partner. Mentored 750+ students and volunteered with Smile Foundation. Competed and placed in 3x hackathons across 2,500+ participants.
 
 ---
 
 <h3>🔥 Recent Hits</h3>
+
+**Prosp.ai / Everis** — AI sales automation platform ($1M+ revenue). Led the V2 backend revamp: campaign execution with atomic workflow claims, per-lead state machines, and queue-based processing; cut key navigation latency from ~330ms to 10–57ms.
+→ [prosp.ai](https://prosp.ai)
+
+**BetterCampus** — Browser extensions serving 2M+ students, plus full-stack platform work as one of the earliest engineering hires.
+→ [bettercampus.com](https://bettercampus.com)
 
 **AutoRFP** — Menu URL in, signed deal out: 5 specialized AI agents negotiate vendor contracts autonomously using live CME/BLS pricing and OLS forecasting, no paid APIs required.
 → [github.com/Utsavd7/AutoRFP-Automated-Ingredient-Procurement-System](https://github.com/Utsavd7/AutoRFP-Automated-Ingredient-Procurement-System)
@@ -39,7 +45,6 @@ Served as Advisor and Lead for Microsoft Learn Student Ambassador, Google Develo
 
 **pix2pix GANs / Microsoft Research** — CLIP-guided diffusion with 96% precision and 30% diversity increase over 80K training steps under a Senior Director.
 → [github.com/Utsavd7/pix2pix-GANs](https://github.com/Utsavd7/pix2pix-GANs)
-
 
 ---
 
