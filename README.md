@@ -22,28 +22,31 @@ Served as Advisor and Lead for Microsoft Learn Student Ambassador, Google Develo
 
 <h3>🔥 Recent Hits</h3>
 
-**Prosp.ai / Everis** — AI sales automation platform ($1M+ revenue). Led the V2 backend revamp: campaign execution with atomic workflow claims, per-lead state machines, and queue-based processing; cut key navigation latency from ~330ms to 10–57ms.
+**Prosp.ai / Everis** — AI sales automation platform ($1M+ revenue). Led the V2 backend revamp: campaign execution with atomic workflow claims, per-lead state machines, and queue-based processing; cut key navigation latency from ~330ms to 10–57ms.  
 → [prosp.ai](https://prosp.ai)
 
-**BetterCampus** — Browser extensions serving 2M+ students, plus full-stack platform work as one of the earliest engineering hires.
+**BetterCampus** — Browser extensions serving 2M+ students, plus full-stack platform work as one of the earliest engineering hires.  
 → [bettercampus.com](https://bettercampus.com)
 
-**AutoRFP** — Menu URL in, signed deal out: 5 specialized AI agents negotiate vendor contracts autonomously using live CME/BLS pricing and OLS forecasting, no paid APIs required.
-→ [github.com/Utsavd7/AutoRFP-Automated-Ingredient-Procurement-System](https://github.com/Utsavd7/AutoRFP-Automated-Ingredient-Procurement-System)
+**QuotePlate** — Restaurant procurement platform built end-to-end to manage ingredient requirements, suppliers, price requests, quote comparisons, purchasing, and delivery records in one place.  
+→ [quoteplate.netlify.app](https://quoteplate.netlify.app) • [github.com/Utsavd7/QuotePlate](https://github.com/Utsavd7/QuotePlate)
 
-**QuantIQ India** — Live NSE equity platform with NIFTY/BANK NIFTY indices, 6-tab analysis (technicals, financials, backtest, events), and a Groq-powered streaming research agent built for Indian market context.
+**Orelu** — Stealth startup I’m building as Founder & CTO, focused on automating everyday business workflows and turning manual processes into software products.  
+→ [orelu.netlify.app](https://orelu.netlify.app)
+
+**QuantIQ India** — Live NSE equity platform with NIFTY/BANK NIFTY indices, 6-tab analysis (technicals, financials, backtest, events), and a Groq-powered streaming research agent built for Indian market context.  
 → [github.com/Utsavd7/Event-Driven-Trading-Strategy-Simulator](https://github.com/Utsavd7/Event-Driven-Trading-Strategy-Simulator)
 
-**NutriCam** — iOS nutrition tracker with Gemini vision + custom YOLOv8, 90%+ accuracy in under 2 seconds, live on App Store.
+**NutriCam** — iOS nutrition tracker with Gemini vision + custom YOLOv8, 90%+ accuracy in under 2 seconds, live on App Store.  
 → [github.com/turingsgarden/food-app](https://github.com/turingsgarden/food-app) • [Download on App Store](https://apps.apple.com/il/app/nutricam-ai-food-tracker/id6754143422)
 
-**Monte Carlo Portfolio Simulator** — 10,000+ simulation paths with Sharpe/VaR/CVaR and efficient frontier visualization, 40% faster risk insights.
+**Monte Carlo Portfolio Simulator** — 10,000+ simulation paths with Sharpe/VaR/CVaR and efficient frontier visualization, 40% faster risk insights.  
 → [github.com/Utsavd7/Monte-Carlo-Portfolio-Simulator](https://github.com/Utsavd7/Monte-Carlo-Portfolio-Simulator)
 
-**Quantitative Risk Metrics Dashboard** — Real-time VaR, stress testing, and correlation analytics with WebSocket live feeds.
+**Quantitative Risk Metrics Dashboard** — Real-time VaR, stress testing, and correlation analytics with WebSocket live feeds.  
 → [github.com/Utsavd7/Quantitative-Risk-Metrics-Dashboard](https://github.com/Utsavd7/Quantitative-Risk-Metrics-Dashboard)
 
-**pix2pix GANs / Microsoft Research** — CLIP-guided diffusion with 96% precision and 30% diversity increase over 80K training steps under a Senior Director.
+**pix2pix GANs / Microsoft Research** — CLIP-guided diffusion with 96% precision and 30% diversity increase over 80K training steps under a Senior Director.  
 → [github.com/Utsavd7/pix2pix-GANs](https://github.com/Utsavd7/pix2pix-GANs)
 
 ---
